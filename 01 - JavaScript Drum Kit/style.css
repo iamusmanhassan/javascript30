@@ -30,6 +30,10 @@ body,html {
   color: white;
   background: rgba(0,0,0,0.4);
   text-shadow: 0 0 .5rem black;
+  -webkit-transition: all .07s ease;
+  -moz-transition: all .07s ease;
+  -ms-transition: all .07s ease;
+  -o-transition: all .07s ease;
 }
 
 .playing {
